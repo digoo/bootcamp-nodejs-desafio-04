@@ -10,7 +10,7 @@ No desafio final você criará uma API REST com AdonisJS para um sistema de agen
 - O usuário deve poder cadastrar eventos em seu calendário com título, localização, data e horário;
 - O usuário deve poder listar os eventos cadastrados por data;
 - O usuário deve poder excluir um compromisso;
-- O uário deve poder compartilhar um compromisso informando o e-mail do destinatário. Assim que compartilhado, o destinatário deve receber todas informações do evento por e-mail;
+- O usuário deve poder compartilhar um compromisso informando o e-mail do destinatário. Assim que compartilhado, o destinatário deve receber todas informações do evento por e-mail;
 
 ## Requisitos não funcionais
 
